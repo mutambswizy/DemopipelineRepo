@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-23T20:27:35 SAST" name="All Test Suite" finished-at="2022-08-23T20:28:39 SAST" duration-ms="64802">
+    <groups>
+    </groups>
+    <test started-at="2022-08-23T20:27:35 SAST" name="C:/Users/user/eclipse-workspace/PipelineTest1" finished-at="2022-08-23T20:28:39 SAST" duration-ms="64802">
+      <class name="SeleniumPipeTest1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:SeleniumPipeTest1@7714e963]" started-at="2022-08-23T20:27:35 SAST" name="setup" finished-at="2022-08-23T20:27:38 SAST" duration-ms="3164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test1()[pri:0, instance:SeleniumPipeTest1@7714e963]" started-at="2022-08-23T20:27:38 SAST" name="Test1" finished-at="2022-08-23T20:27:44 SAST" duration-ms="6067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:SeleniumPipeTest1@7714e963]" started-at="2022-08-23T20:27:44 SAST" name="CloseBrowser" finished-at="2022-08-23T20:27:48 SAST" duration-ms="4349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:SeleniumPipeTest1@7714e963]" started-at="2022-08-23T20:27:48 SAST" name="setup" finished-at="2022-08-23T20:27:50 SAST" duration-ms="2023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test2()[pri:0, instance:SeleniumPipeTest1@7714e963]" started-at="2022-08-23T20:27:50 SAST" name="Test2" finished-at="2022-08-23T20:28:35 SAST" duration-ms="44551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:SeleniumPipeTest1@7714e963]" started-at="2022-08-23T20:28:35 SAST" name="CloseBrowser" finished-at="2022-08-23T20:28:39 SAST" duration-ms="4581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- SeleniumPipeTest1 -->
+    </test> <!-- C:/Users/user/eclipse-workspace/PipelineTest1 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
