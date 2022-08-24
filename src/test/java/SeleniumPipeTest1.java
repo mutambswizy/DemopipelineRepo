@@ -43,9 +43,8 @@ public class SeleniumPipeTest1 {
         check1.click();
         WebElement tick1=driver.findElement(By.xpath("//*[@id=\"details\"]/table/tbody/tr[6]/td[2]/input[1]"));
         tick1.click();
-        tick1.click();
         driver.findElement(By.xpath("//*[@id=\"details\"]/table/tbody/tr[7]/td/input")).click();
-        Thread.sleep(4000);
+        Thread.sleep(2000);
         driver.findElement(By.linkText("LOGOUT")).click();
 
     }
